@@ -37,6 +37,9 @@
  13.Сделайте git push origin master.
 
  В качестве ответа на задание добавьте ссылку на этот коммит в ваш md-файл с решением
+ 
+Решение: https://github.com/stanislavarutyunov/homeworksys15/commit/c1d0f33e0c160a8b3a573d1f4380744fdab21112
+ 
 ```
 ## Задание 2.
 ```
