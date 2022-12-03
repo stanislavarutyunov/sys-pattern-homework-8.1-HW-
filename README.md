@@ -50,7 +50,7 @@
 
  В качестве ответа на задание добавьте ссылку на этот коммит в ваш md-файл с решением
  
- Решение: https://github.com/stanislavarutyunov/homeworksys15/commit/7777087c439e1b0f71528805ce7ff5adf22da40c
+ Решение: https://github.com/stanislavarutyunov/homeworksys15/commit/d93a81cde9805cdd94b983337f84657bb176af89 
 ```
 ## Задание 3.
 ```
