@@ -62,3 +62,4 @@
 
 В качестве ответа на задание прикрепите ссылку на граф коммитов https://github.com/ВАШ_ЛОГИН/ВАШ_РЕПОЗИТОРИЙ/network в ваш md-файл с решением
 ```
+Решение: https://github.com/stanislavarutyunov/homeworksys15/network
